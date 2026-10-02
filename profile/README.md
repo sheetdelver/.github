@@ -1,5 +1,7 @@
-<img src="https://github.com/sheetdelver/sheetdelver/raw/main/logo.png" width="25%" alt="SheetDelver Logo">
+# SheetDelver
 
-An external character sheet interface to [Foundry VTT](https://foundryvtt.com/) sheets.
+Character sheets outside Foundry VTT for in-person play. Use a phone, tablet, or PC for sheets, chat, dice, and shared journals.
 
-[![GitHub Repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/sheetdelver/sheetdelver) [![CI](https://github.com/sheetdelver/sheetdelver/actions/workflows/ci.yml/badge.svg)](https://github.com/sheetdelver/sheetdelver/actions/workflows/ci.yml)
+[Website](https://sheetdelver.github.io/) · [Application and setup](https://github.com/sheetdelver/sheetdelver#running-locally) · [Contribute](https://github.com/sheetdelver/sheetdelver/blob/main/docs/CONTRIBUTING.md)
+
+**System modules:** [Shadowdark RPG](https://github.com/sheetdelver/sd-shadowdark) · [Mörk Borg](https://github.com/sheetdelver/sd-morkborg) · [D&D 5e (experimental)](https://github.com/sheetdelver/sd-dnd5e)
